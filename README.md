@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning php, laravel and python
 - 💞️ I’m looking to collaborate on machine learning and api projects that are cool and relatively hard
 - 📫 How to reach me @lazycruise on Twitter, Instagram.
+- Peak Finding is the new knowledge I just found.
 
 <!---
 lazycruise-sys/lazycruise-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
